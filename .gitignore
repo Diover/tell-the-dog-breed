@@ -103,8 +103,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# input data
+# neuro net data
 input/
+output/
+weights/
 
 # Idea files
 .idea
